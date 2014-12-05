@@ -1,3 +1,5 @@
+![alt tag](http://i.imgur.com/cANVgcq.png)
+
 Project Portfolio
 =========
 
