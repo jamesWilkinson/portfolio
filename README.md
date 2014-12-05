@@ -1,8 +1,5 @@
 ![alt tag](http://i.imgur.com/cANVgcq.png)
 
-Project Portfolio
-=========
-
 This project consists of an online portfolio website which is being written in ASP.Net MVC 4 using the Umbraco CMS. It has been developed to a full Software Development Lifecycle making use of an agile methodology with the Dependncy Injection programming pattern. 
 
 This project has been developed by Paul Griffiths, James Wright and James Wilkinson - members of the Amaze Ltd GIS team. 
