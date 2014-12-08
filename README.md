@@ -11,3 +11,4 @@ Some of the project features:
 - Fully documented using C#'s XML standard and via an online wiki on GitHub
 - Uses TeamCity for monitoring of commits. 
 
+![alt tag](https://dl.dropboxusercontent.com/u/45389967/Projects/Project%20Portfolio/banner.png)
